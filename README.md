@@ -1,1 +1,1 @@
-# bg-gradient
+# DOM Exercise BG Gradient Generator
